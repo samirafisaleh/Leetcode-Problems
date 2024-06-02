@@ -1,9 +1,3 @@
-
-'''
-    Title: Two Sum
-    Link: https://leetcode.com/problems/two-sum/description/
-'''
-
 '''
     NAME:
     Two Sum
